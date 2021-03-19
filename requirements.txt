@@ -14,7 +14,7 @@ django-crispy-forms==1.9.0
 django-registration==3.1
 django-rest-auth==0.9.5
 django-webpack-loader==0.7.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.9
 ipython==7.14.0
 ipython-genutils==0.2.0
